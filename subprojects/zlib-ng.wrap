@@ -1,0 +1,4 @@
+[wrap-git]
+directory = zlib-ng
+url = https://github.com/zlib-ng/zlib-ng.git
+revision = stable

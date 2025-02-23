@@ -1,0 +1,4 @@
+[wrap-git]
+directory = cryptopp
+url = https://github.com/weidai11/cryptopp.git
+revision = master

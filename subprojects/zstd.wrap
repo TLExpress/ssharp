@@ -1,0 +1,4 @@
+[wrap-git]
+directory = zstd
+url = https://github.com/facebook/zstd.git
+revision = dev
